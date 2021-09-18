@@ -7,7 +7,7 @@ function multiplication(a, b) {
 }
 
 function mystere(a, b) {
-  return a + a + a;
+  return b + b + b;
 }
 
 function print(operation, a, b) {
